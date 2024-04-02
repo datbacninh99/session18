@@ -1,0 +1,6 @@
+United Manchester 1.
+City Manchester 2.
+Arsenal 3.
+Liverpool 4.
+Chelsea 5.
+Hotspur Tottenham 6.
